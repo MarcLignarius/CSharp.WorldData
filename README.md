@@ -33,7 +33,7 @@ _Cloning & Launching the Application:_
 | 1. Upon launching the application, user has option to *View Countries* | Launch application | ![Image of homepage](https://i.imgur.com/q8fyviE.png) |
 | 2. Upon clicking on *View Countries*, user is presented with information about countries. For each country, the use can click on *Major Cities* or *Back to Homepage* | Click *View Countries* | ![Image of countriesscreen](https://i.imgur.com/8ndo4El.png) |
 | 3. If user clicks on *Back to Homepage*, see Step 1. If user clicks on *Major Cities*, user is presented with information about cities. For each city, user can click on *Back to Countries* or *Back to Homepage*. | Click  *Major Cities* | ![Image of citiesscreen](https://i.imgur.com/P2Q1j0w.png) |
-| 4. If user clicks on *Back to Homepage*, see step 1. If user clicks on *Back to Countries", see step 2. | | |
+| 4. If user clicks on *Back to Homepage*, see step 1. If user clicks on *Back to Countries*, see step 2. | | |
 
 ## Known Bugs
 
