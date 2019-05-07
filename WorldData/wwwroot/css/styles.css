@@ -8,7 +8,7 @@ body {
   color: white;
 }
 
-.jumbotron h1, em {
+.jumbotron h1{
   opacity: 0.80;
 }
 
@@ -16,16 +16,28 @@ body {
   background: rgba(61, 58, 57, 0.75);
 }
 
+.card{
+  background: rgba(61, 58, 57, 0.75);
+  margin-bottom: 5px;
+}
+
+h5, li {
+  color: white;
+  opacity: 0.80;
+
+}
+
 .btn {
   margin-bottom: 5px;
   background: rgba(61, 58, 57, 0.75);
 }
 
-h1, h3, p, label {
-  color: white;
-  opacity: 0.80;
+form {
+  margin-left: 40%;
+  margin-right: 40%;
 }
 
-h3 {
-  margin-bottom: 10px;
+.list {
+  margin-left: 30%;
+  margin-right: 30%;
 }

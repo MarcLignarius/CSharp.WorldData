@@ -50,12 +50,11 @@ namespace WorldData.Models
 
         public static List<City> GetAll(string countryName)
         {
-          Console.WriteLine(countryName);
             List<City> allCities = new List<City> {};
             MySqlConnection conn = DB.Connection();
             conn.Open();
             MySqlCommand cmd = conn.CreateCommand() as MySqlCommand;
-            cmd.CommandText = @"SELECT Name, Population, CountryCode FROM city WHERE CountryCode ='" + countryName + "';";
+            cmd.CommandText = @"SELECT Name, Population, CountryCode FROM city WHERE CountryCode ='" + countryName + "' ORDER BY Name;";
             MySqlDataReader rdr = cmd.ExecuteReader() as MySqlDataReader;
             while(rdr.Read())
             {

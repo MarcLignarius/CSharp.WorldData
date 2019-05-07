@@ -1,0 +1,4 @@
+C:\Users\mimim\desktop\WorldData.Solution\WorldData.Tests\obj\Debug\netcoreapp2.2\WorldData.Tests.csprojAssemblyReference.cache
+C:\Users\mimim\desktop\WorldData.Solution\WorldData.Tests\obj\Debug\netcoreapp2.2\WorldData.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mimim\desktop\WorldData.Solution\WorldData.Tests\obj\Debug\netcoreapp2.2\WorldData.Tests.AssemblyInfoInputs.cache
+C:\Users\mimim\desktop\WorldData.Solution\WorldData.Tests\obj\Debug\netcoreapp2.2\WorldData.Tests.AssemblyInfo.cs
